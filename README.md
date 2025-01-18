@@ -1,4 +1,4 @@
-SQL Project
+**SQL Project
 •  Designed a relational database to manage and analyze university course, 
  student, and enrollment data. 
  
