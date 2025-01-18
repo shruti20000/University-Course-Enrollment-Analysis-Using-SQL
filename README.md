@@ -1,4 +1,4 @@
-#University-Course-Enrollment-Analsis
+**University-Course-Enrollment-Analysis**
 
 •  Designed a relational database to manage and analyze university course, 
  student, and enrollment data. 
